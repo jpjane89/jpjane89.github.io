@@ -4,6 +4,7 @@ title:  "Whistler’s Symphony in White, No. 1"
 date:   2016-04-10 22:58
 categories: jekyll update
 ---
+![Whister's Symphony in White ](/assets/whistler-white-393pix.jpg)
 
 Behind the lace curtains, voices whisper  
 falling leaves. Light drips from bare  

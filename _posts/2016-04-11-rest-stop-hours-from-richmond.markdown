@@ -2,7 +2,7 @@
 layout: post
 title:  "Rest stop (Hours from Richmond)"
 date:   2016-04-11 21:28
-categories: jekyll update
+categories: jekyll update writing
 ---
 The cat hides under a brown paper bag.  
 Sits on yellowing grass, yet to be diagnosed  

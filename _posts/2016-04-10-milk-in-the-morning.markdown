@@ -2,7 +2,7 @@
 layout: post
 title:  "Milk in the morning"
 date:   2016-04-10 22:32
-categories: jekyll update
+categories: jekyll update writing
 ---
 
 I am wearing a tank top with Hollywood spelled  

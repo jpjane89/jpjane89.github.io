@@ -2,7 +2,7 @@
 layout: post
 title:  "The Twelve Dancing Princesses"
 date:   2016-04-11 21:31
-categories: jekyll update
+categories: jekyll update writing
 ---
 Pink slippers silked  
 in grass-lashes, dripping  

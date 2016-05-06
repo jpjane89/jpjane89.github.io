@@ -2,7 +2,7 @@
 layout: post
 title:  "Out to dry"
 date:   2016-04-11 21:34
-categories: jekyll update
+categories: jekyll update writing
 ---
 Shirtsleeves buttoned,  
 ballooned: a billowing body  

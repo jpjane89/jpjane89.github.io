@@ -2,7 +2,7 @@
 layout: post
 title:  "Patchwork"
 date:   2016-04-11 21:35
-categories: jekyll update
+categories: jekyll update writing
 ---
 A cup of browned water and a windowpane.  
 Earth-colored scrapes of canvas peeking  

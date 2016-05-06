@@ -2,7 +2,7 @@
 layout: post
 title:  "Two parallel one-way streets"
 date:   2016-04-10 22:27
-categories: jekyll update
+categories: jekyll update writing
 ---
 
 [Monkey bars]

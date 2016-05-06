@@ -2,7 +2,7 @@
 layout: post
 title:  "Lullaby for a daughter’s daughter"
 date:   2016-04-11 21:18
-categories: jekyll update
+categories: jekyll update writing
 ---
 
 When the clouds turn dark, I will braid  

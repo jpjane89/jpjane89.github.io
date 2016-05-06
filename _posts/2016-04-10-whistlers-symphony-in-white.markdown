@@ -2,7 +2,7 @@
 layout: post
 title:  "Whistler’s Symphony in White, No. 1"
 date:   2016-04-10 22:58
-categories: jekyll update
+categories: jekyll update writing
 ---
 ![Whister's Symphony in White ](/assets/whistler-white-393pix.jpg)
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "The Green House Effect"
 date:   2016-04-10 14:04:56 -0700
-categories: jekyll update
+categories: jekyll update writing
 ---
 A woman holds a cat meowing to be  
 let into the cool, green house. Her head  

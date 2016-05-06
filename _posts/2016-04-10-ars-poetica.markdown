@@ -2,7 +2,7 @@
 layout: post
 title:  "Ars Poetica"
 date:   2016-04-10 22:22
-categories: jekyll update
+categories: jekyll update writing
 ---
 
 My words are twisting their hair with twisted fingers, hiding  

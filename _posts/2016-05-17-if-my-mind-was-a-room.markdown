@@ -1,7 +1,0 @@
----
-layout: post
-title:  "If my mind were a room"
-date:   2016-05-17 19:44
-categories: jekyll update writing
----
-As part of my daily job, I monitor a difficult space. Imagine: a tennis ball trapped inside a room, bouncing from one wall to another. Each time regenerating into 5 more balls that also begin to ricochet around the room. Solid concrete walls—impenetrable by outside sound and light. There are a few pots with soil in the room but nothing can grow–buds die immediately due to the lack of sunshine, watering, and nutrients. The constant noise of the tennis balls hitting the walls can’t help, either. It is not a place I would call “comfortable” and hence I avoid entering, unless I have to tend to something urgent (like when the roof started to leak last year). Prefer to keep the door shut, keep all those balls inside—they can be quite unwieldy to handle, you know, with the spontaneous regeneration and all. When I first started my job, I thought I’d just start snatching balls one by one and thereby cut off the source of the chaos, get the system under control.  Ha! I could barely keep up. As soon as I grabbed one, there were 5 more! Recently I’ve been dreaming about finding a way to capture the energy from the balls’ momentum…

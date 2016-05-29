@@ -11,7 +11,7 @@ As part of my daily job, I monitor a difficult space. Imagine: a tennis ball tra
 Idea #1: Power a giant Ferris wheel in my backyard that runs all year round  
 Idea #2: Operate one million sewing machines simultaneously in order to mass-produce items for my new to-be-determined fashion line  
 Idea #3: Dry-freeze an entire grocery-store full of food to stock up as many food pantries as possible  
-Idea #4: Set-up streetlights in every dark strip of every city
+Idea #4: Set-up streetlights in every dark strip of every city  
 Idea #5: Play music on the trains through a tricked-out sound system, soothing the daily commuters  
 Idea #6: Run computer models around the world concurrently in order to make significant headway on the sequencing of the human genome  
 Idea #7: On the storefront of every block, light-up a small neon sign that says “You are Loved” to remind passersby  

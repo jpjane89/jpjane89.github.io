@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wait"
+title:  "Algae-filled bathtub: a game"
 date:   2016-07-31 10:32
 categories: jekyll update writing
 ---

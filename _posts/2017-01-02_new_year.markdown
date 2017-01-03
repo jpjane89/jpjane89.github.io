@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "New Year"
+date:   2017-01-02 17:00
+categories: jekyll update writing
+---
+
+Node 1 disconnected from Node 2. Reason unknown, something about transient load /
+the start of the New Year. Walgreens has a two for one special on toilet paper— do they know something I do not know? Maybe it’s about time to paint my nails #421, begin going by a cute nickname, like *cookie* or *raccoon*. Tell me something new! Does your left big toe feel like a baby carrot? Or, better yet, do you know the best way to optimize my search for contentment? It’s like listening to a symphony just to score the music. Please leave the bedroom door open - the sound of the refrigerator’s heartbeat is what puts me to sleep.
